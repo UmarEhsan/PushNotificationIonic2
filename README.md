@@ -9,14 +9,15 @@
 <p>
   Go to firebase console (https://firebase.google.com/) and create a new project<br>
   Note down your SERVER_KEY and SENDER_ID<br>
-  <p align="center">
-  <img src="./Images/Sender-id.PNG" width="350"/>
-  
-</p>
+  </p>
   <p align="center">
   <img src="./Images/firebase-console.png" width="350"/>
   
-</p>
+</p><br><br><br><br>
+  <p align="center">
+  <img src="./Images/Sender-id.PNG" width="350"/>
+  
+
 </p>
 <p><strong>SERVER_KEY</strong> used by server to send push notification </p>
 <p><strong>SENDER_ID</strong> used by device to generate device token </p>
