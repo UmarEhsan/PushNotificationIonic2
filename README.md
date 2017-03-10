@@ -13,6 +13,10 @@
   <img src="./Images/Sender-id.PNG" width="350"/>
   
 </p>
+  <p align="center">
+  <img src="./Images/firebase-console.PNG" width="350"/>
+  
+</p>
 </p>
 <p><strong>SERVER_KEY</strong> used by server to send push notification </p>
 <p><strong>SENDER_ID</strong> used by device to generate device token </p>
