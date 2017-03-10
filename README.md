@@ -14,7 +14,7 @@
   
 </p>
   <p align="center">
-  <img src="./Images/firebase-console.PNG" width="350"/>
+  <img src="./Images/firebase-console.png" width="350"/>
   
 </p>
 </p>
